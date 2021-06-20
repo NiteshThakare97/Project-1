@@ -1,0 +1,128 @@
+.navbar {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    height: 9vh;
+}
+.slide {
+    /* width: 100%; */
+    /* margin: auto; */
+    /* display: grid;
+    place-items: center; */
+}
+.text {
+    position: absolute;
+    top: 80%;
+    left:40%;
+    display: grid;
+    place-items: center;
+    font-weight: bold;
+    color: silver;
+}
+/* .text-image {
+    position: relative; 
+    width: 100%;
+} */
+.Band {
+    color: black;
+    width: 70%;
+    margin: auto;
+}
+.heading-2{
+    text-align: center;
+}
+.paragraph-2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.member {
+   text-align: center;
+}
+.member-image {
+    height: 50%;
+}
+.Tour{
+    background-color: black;
+    color: silver;
+}
+.data {
+    background-color: white;
+    color: brown;
+    width: 65%;
+    margin: auto;
+    border: 1px solid tomato;
+    list-style: none;
+}
+#data-1 {
+    /* display: inline-block; */
+    /* width: 20%; */
+    margin-left: 8%;
+    background-color: tomato;
+}
+#data-2 {
+    border-radius: 50%;
+    padding: .3% 1%;
+    /* display: inline-block; */
+    /* width: 60%; */
+    margin-left: 75%;
+    background-color: gray;
+}
+.destination {
+    /* display: inline-flex; */
+    width: 67%;
+    margin: auto;
+}
+.location-image {
+    width: 100%;
+}
+.location {
+    background-color: gainsboro;
+    color: chocolate;
+    padding: 3%;
+}
+.ticket-buy {
+    background-color: black;
+    color:silver;
+    font-family: cursive;
+    border-radius: 30%;
+}
+.contact {
+    width: 73%;
+    margin-left: 10%;
+    /* margin-right: 20%; */
+    padding: 5%;
+}
+.contact-1 {
+    list-style: none;
+}
+.contact-3 {
+    width: 100%;
+    margin: auto;
+    padding: 2%;
+}
+.contact-4 {
+    width: 100%;
+    margin: auto;
+}
+.contact-5 {
+    width: 100%;
+    margin-left: 14.2%;
+    padding: 2%;
+}
+#contact-6 {
+    /* margin: 5%; */
+    background-color: black;
+    color: gray;
+}
+.map-1 {
+    display: grid;
+    place-items: center;
+}
+.footer {
+    padding: 5%;
+    display: grid;
+    place-items: center;
+}
+
